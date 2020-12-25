@@ -19,6 +19,7 @@ body{
 }
 .logo{
 	height: 40px;
+	width: 20%;
 	margin: 5px 10px;
 }
 .form-control{
@@ -975,6 +976,9 @@ body{
 		margin-left: 0px;
 		box-shadow: none;
 	}
+	.vission-text img{
+		height: 200px;
+	}
 }
 
 
@@ -1121,12 +1125,11 @@ body{
 	font-weight: 0;
 }
 .address-icon p{
-	font-weight: 300;
+	font-weight: 500;
 	font-size: 14px;
 }
 .address-icon span{
-	font-weight: 0;
-	font-size: px;
+	font-weight: 10;
 }
 }
 
@@ -1152,6 +1155,10 @@ body{
 	}
 	.box-icons .fa{
 	    font-size: 18px;
+}
+.product-img-holder-1{
+	width: 100%;
+	margin-left: 0;
 }
 }
 
