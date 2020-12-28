@@ -884,7 +884,7 @@ body{
 		text-align: center;
 		padding-top: 30px;
 		position: absolute;
-		left: 10%;
+		left: 14%;
 		z-index: 1;
 	}
 	.product-text h1{
@@ -1012,7 +1012,7 @@ body{
 		margin-left: 15%;
 		height: 300px;
 		margin-bottom: 50px;
-		box-shadow: 1px 1px 4px 3px rgba(0,0,0,0.5);
+		box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.5);
 }
 .overlay-contact{
 	width: 85%;
@@ -1138,6 +1138,10 @@ body{
 	color: #fff;
 	border: none;
 }
+.box-wraper button a{
+	text-decoration: none;
+	color: #fff;
+}
 
 /*----Media Querry for 768px, contact---*/
 @media only screen and (max-width: 768px){
@@ -1154,10 +1158,10 @@ body{
 }
    .product-text-1{
 	left: 0%;
-	margin-left: -30px;
+	margin-left: -50px;
 }
 .product-text-1 h1{
-	font-size: 2.5rem;
+	font-size: 2rem;
 }
    .contact-holder-top{
 	padding: 5px;
@@ -1187,11 +1191,11 @@ body{
 	font-weight: 500;
 }
 .address-icon p{
-	font-weight: 500;
+	font-weight: 300;
 	font-size: 14px;
 }
 .address-icon span{
-	font-size: 20px;
+	font-size: 17px;
 	font-weight: 10;
 }
 }
